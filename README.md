@@ -20,19 +20,19 @@ Second: </br>
 
 Log into your GravityZone and on the left hand side, select "Packages" under "Network".
 
-![Service Name](bdgzPackages.png)
+![Service Name](bdgvPackages.png)
 
 Select the client you are working with and click "Send Download Links" at the top. </br>
 
-![Service Name](bdgzDownloadLink.png)
+![Service Name](bdgvDownloadLink.png)
 
 Copy the appropriate download link
 
-![Service Name](bdgzCopy.png)
+![Service Name](bdgvCopy.png)
 
 Paste download link into the `bdur` when you right click your target clients name in the RMM.
 
-![Service Name](bdgzCustFieldLink.png)
+![Service Name](bdgvCustFieldLink.png)
 
 Now copy the `setupdownloader_[randomstring].exe` into the `bdexe` field.
 
