@@ -30,7 +30,7 @@ Copy the appropriate download link
 
 ![Service Name](bdgzLinkCopy.png)
 
-Paste download link into the `bdur` when you right click your target clients name in the RMM.
+Paste download link into the `bdurl` when you right click your target clients name in the RMM.
 
 ![Service Name](bdgvCustFieldLink.png)
 
