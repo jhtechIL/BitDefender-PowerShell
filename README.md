@@ -28,7 +28,7 @@ Select the client you are working with and click "Send Download Links" at the to
 
 Copy the appropriate download link
 
-![Service Name](bdgvCopy.png)
+![Service Name](bdgzLinkCopy.png)
 
 Paste download link into the `bdur` when you right click your target clients name in the RMM.
 
