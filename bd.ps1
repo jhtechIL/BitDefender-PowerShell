@@ -6,7 +6,10 @@
 # $url is the Installation Link in the GravityZone
 # 
 # TacticalRMM: Need to add Custom Fields to the Client or Site and invoke them in the Script Arguments. Name the url "bdurl" and the exe "bdexe" in the client custom field
-
+param(
+      $url,
+      $exe
+)
   
 $destination = 'C:\Temp'
 
