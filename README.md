@@ -10,11 +10,13 @@ First: </br>
 **Target** = `CLIENTS`</br>
 **Name** = `bdurl`</br>
 **Field Type** = `Text`</br>
+**Add Inside Field Type** = `$url="Replace with Package URL"`</br>
 
 Second: </br>
 **Target** = `CLIENTS`</br>
 **Name** = `bdexe`</br>
 **Field Type** = `Text`</br>
+**Add Inside Field Type** = `$exe="Replace with EXE part of URL"`</br>
 
 ![Service Name](bdgzRmmCustField.png)
 
