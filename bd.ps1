@@ -1,4 +1,4 @@
-# Installs BitDefender Gravity Zone
+# Installs BitDefender Gravity Zone on Tactical RMM
 #
 # Find the BitDefender URL and EXE on your GravityZone page
 # Network > Packages > Select Name You Want > Send Download Links > Select Installation Links > Appropriate Link
@@ -6,11 +6,7 @@
 # $url is the Installation Link in the GravityZone
 # 
 # TacticalRMM: Need to add Custom Fields to the Client or Site and invoke them in the Script Arguments. Name the url "bdurl" and the exe "bdexe" in the client custom field
-# SuperOps.ai: Add url and exe run time variables 
-param(
-      $url,
-      $exe
-)
+
   
 $destination = 'C:\Temp'
 
