@@ -1,6 +1,6 @@
-# BitDefender GravityZone Deployment
+# BitDefender GravityZone Deployment Tactical RMM
 
-## How to Deploy BitDefender GravityZone
+## How to Deploy BitDefender GravityZone on Tactical RMM
 
 From the UI go to **Settings > Global Settings > CUSTOM FIELDS > Clients**
 
